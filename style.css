@@ -1,0 +1,43 @@
+.article {
+    text-align: center;
+}
+.b1 {
+    font-weight: bold;
+}
+.b2 {
+    font-style: oblique;
+}
+.underline {
+    text-decoration: underline;
+}
+.linethrough {
+    text-decoration: line-through;
+}
+.color1 {
+    letter-spacing: 5px;
+    line-height: 10px;
+    color: rgb(202, 65, 65);
+}
+.color2 {
+    font-size: 20px;
+    color:rgb(90, 168, 241)
+}
+.color3 {
+    font-size: 30px;
+    color:red
+}
+.br {
+    display: block;
+}
+.br2 {
+    display: block;
+}
+.br3 {
+    display: block;
+}
+.br4 {
+    display: block;
+}
+.br5 {
+    display: block;
+}
